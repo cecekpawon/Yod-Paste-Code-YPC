@@ -1,4 +1,12 @@
-TinyMCE-4-plugin---Yod-Paste-Code-YPC-
+Yod Paste Code (YPC)
 ======================================
+Simple code block TinyMCE WYSIWYG injector - TinyMCE 4 plugin
 
-Simple code block TinyMCE WYSIWYG injector
+### Usage
+
+```Javascript
+tinymce.init({
+  plugins: ["yodpaste"],
+  toolbar: ".. | yodpaste"
+});
+```
