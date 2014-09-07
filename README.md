@@ -1,6 +1,6 @@
 Yod Paste Code (YPC)
 ======================================
-Simple code block TinyMCE WYSIWYG injector - TinyMCE 4 plugin
+Simple code block injector - TinyMCE 4 plugin
 
 ### Usage
 
